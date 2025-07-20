@@ -42,13 +42,20 @@ Cada "célula computacional" possui: `ChronoCell`
 
 ## 🚀 Como usar
 
-### Requisitos
-- Python 3.7+
+### Baixe Esse Repositorio
+```bash
+git clone https://github.com/Mateusdang/ChronoCell-framework.git
+```
 
-### Execução
+```bash
+cd ChronoCell-framework
+
+```
+### Inicio
 ```bash
 python chronocell.py
 ```
+
 ### Veja Os Dados Gerado
 ```bash
 python interpretar_log.py
@@ -209,10 +216,10 @@ O arquivo `chronocell_log.json` precisa estar no mesmo diretório.
 
 ## Referências
 
-**Einstein, A. (1905). Sobre a eletrodinâmica dos corpos em movimento.**
-**López-Otín, C., et al. (2013). The Hallmarks of Aging. Cell.**
-**Refinetti, R., Lissen, G., & Halberg, F. (2007). Procedures for numerical analysis of circadian rhythms. Biological Rhythm Research.**
-**Relógios Biológicos Internos**
+- Einstein, A. (1905). Sobre a eletrodinâmica dos corpos em movimento.
+- López-Otín, C., et al. (2013). The Hallmarks of Aging. Cell.
+- Refinetti, R., Lissen, G., & Halberg, F. (2007). Procedures for numerical analysis of circadian rhythms. Biological Rhythm Research.
+- Relógios Biológicos Internos
 
 Células Cronológicas ou Relógios Celulares Resumidamente
 
